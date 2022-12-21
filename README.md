@@ -1,2 +1,2 @@
 # LM
-# To run the code : uvicorn main:app 
+# To run the code : use uvicorn main:app 
